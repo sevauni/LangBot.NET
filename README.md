@@ -9,7 +9,7 @@ It’s written in **.NET core 6.0** and uses
 + SQLite
 + Telegram API
  
-**How to start my own bot?**    
+**How to start your own bot?**    
 This project could be easily compiled with VS Studio or with the bare Dotnet SDK.
 After the first start, 2 SQLite databases will be generated in the binary folder and you can edit the words database and add words you want to learn. 
 In the binary folder also should be **token.token** file with the valid Telegram Bot token.
