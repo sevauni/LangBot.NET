@@ -3,7 +3,7 @@
 ![ecample](https://user-images.githubusercontent.com/12978622/206853292-89438ea8-335a-4747-902c-12e786473076.PNG)
 
 
-This is a simple Telegram bot that sends a time when being restarted a new word with a usage example and a random picture.
+This is a simple Telegram bot that sends periodically a new word with a usage example and a random picture.
 It’s written in **.NET core 6.0** and uses 
 + Entity Framework
 + SQLite
