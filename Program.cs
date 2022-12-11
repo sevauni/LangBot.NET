@@ -144,7 +144,7 @@ internal class Program
             {
                 Message sentMessage = await botClient.SendPhotoAsync(
                 chatId: chatId,
-                photo: "http://tutix.ru/imgs/welcome.jpg",
+                photo: "{Program.ImagesURL}imgs/welcome.jpg",
                 caption: "<b>Welcome Stranger!</b>.\nThis Bot will send you a new word every day and add some random pictures from photostock websites!\n<i>Let's learn some Hebrew together!</i>",
                 parseMode: ParseMode.Html,
                 cancellationToken: cancellationToken);
